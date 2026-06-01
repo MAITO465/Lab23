@@ -1,10 +1,8 @@
 # Lab23 - JNI & Native Anti-Debug Protection 🛡️
+>### Auteur : AIT OURAJLI MOHAMED
 
 Bienvenue dans le **Lab23** ! Ce projet prolonge les concepts JNI (Java Native Interface) en y ajoutant une couche de sécurité défensive bas niveau (C++).
 
-## 📸 Aperçu du Dashboard de Sécurité
-
-![Screenshot Lab23 Shield](screenshot.png)
 
 ## 🎯 Objectif du Laboratoire
 
